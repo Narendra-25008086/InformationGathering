@@ -93,7 +93,11 @@ whatweb https://chatgpt.com
 
 
 ## httprint
+```
+httprint -h https://chatgpt.com/ -s /usr/share/httprint/signatures.txt -P0 -t 30000
+```
 ### output
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/fd0b7980-590a-43d0-bbd2-7f089862f615" />
 
 
 
